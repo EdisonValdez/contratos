@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SHOW CONTRACTS</title>
+
+    <script src="plugins/jquery-2.1.1.min.js"></script>
+
+    <!-- bootstrap for better look example, but not necessary -->
+    <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.css" type="text/css" media="screen, projection">
+
+    <!-- Step Form Wizard plugin -->
+    <link rel="stylesheet" href="step-form-wizard/css/step-form-wizard.css" type="text/css" media="screen, projection">
+    <script src="step-form-wizard/js/step-form-wizard.js"></script>
+
+    <!-- nicer scroll in steps -->
+    <link rel="stylesheet" href="plugins/mcustom-scrollbar/jquery.mCustomScrollbar.css">
+    <script src="plugins/mcustom-scrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
+
+    <script>
+        var sfw;
+        $(document).ready(function() {
+            sfw = $("#wizard_example").stepFormWizard({
+                showNav: 'left',
+                height: '300px',
+                theme: 'circle'
+            });
+        })
+        $(window).load(function(){
+            /* only if you want use mcustom scrollbar */
+            $(".sf-wizard fieldset").mCustomScrollbar({
+                theme:"dark-3",
+                scrollButtons:{
+                    enable:true
+                }
+            });
+            /* ***************************************/
+
+            /* this function call can help with broken layout after loaded images or fonts */
+            sfw.refresh();
+        });
+    </script>
+
+    <style>
+        pre {margin: 45px 0 60px;}
+        h2 {margin: 60px 0 30px 0;}
+        p {margin-bottom: 10px;}
+    </style>
+</head>
+<body>
+
+<div class="container">
+<div class="site-index">
+<div class="body-content">
+
+<div class="row">
+    <div class="col-md-12">
+        <h2>Print Your Contract</h2>
+        <form id="wizard_example" action="">
+            <fieldset>
+                <legend>Main</legend>
+                <div class="row">
+
+                    <div class="col-lg-12">
+                   <a href="contract2.php" target="_blank">MAIN CONTRACT</a> </div>
+                     <iframe src="http://localhost/contratos/application/contract2.php" align="middle" frameborder="0" height="650px" sandbox="allow-forms" width="850px" seamless scrolling="auto"
+></iframe>   
+                </div>
+            </fieldset>
+            
+             <fieldset>
+                <legend>Annex I</legend>
+                <div class="row">
+
+                    <div class="col-lg-12">
+                   <a href="annex1.php" target="_blank">Annex I</a> </div>
+                     <iframe src="http://localhost/contratos/application/annex1.php" align="middle" frameborder="0" height="650px" sandbox="allow-forms" width="850px" seamless scrolling="auto"
+></iframe>   
+                </div>
+             
+            </fieldset>
+            
+             <fieldset>
+                <legend>Annex II</legend>
+                <div class="row">
+				<div class="col-lg-12">
+                <a href="annex2.php" target="_blank">Annex II</a> </div>
+                <iframe src="http://localhost/contratos/application/annex2.php" align="middle" frameborder="0" height="650px" sandbox="allow-forms" width="850px" seamless scrolling="auto"
+></iframe>                   
+                </div>
+                
+            </fieldset>
+            
+             <fieldset>
+                <legend>Tablet Receipt</legend>
+                <div class="row">
+				<div class="col-lg-12">
+                   <a href="tablet_receipt.php" target="_blank">Tablet Receipt</a> </div>
+                     <iframe src="http://localhost/contratos/application/tablet_receipt.php" align="middle" frameborder="0" height="650px" sandbox="allow-forms" width="850px" seamless scrolling="auto"
+></iframe>   
+                </div>
+                 
+            </fieldset>
+            
+             <fieldset>
+                <legend>Lloydshare</legend>
+                <div class="row">
+				<div class="col-lg-12">
+                   <a href="#" target="_blank">Lloydshare</a> </div>
+                </div>
+              
+            </fieldset>
+            
+             <fieldset>
+                <legend>Credits</legend>
+                <div class="col-lg-12">
+                   <a href="contract2.php" target="_blank">Credits</a> </div>
+                </div>
+               
+            </fieldset>
+                            
+        </form>
+    </div>
+</div>
+    <div class="row">
+       
+    </div>
+
+
+
+
+
+
+
+<footer class="footer">
+
+</footer>
+</div>
+</div>
+</div>
+</body>
+</html>
