@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="da9cf704-691b-4cbd-96e5-54279445d1f2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/tablet_receipt.php" afterPath="$PROJECT_DIR$/application/tablet_receipt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="contratos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,10 +28,8 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="6" selection-start="967" selection-end="967" vertical-scroll-proportion="-0.0" vertical-offset="799" max-vertical-offset="11475">
-              <folding>
-                <element signature="n#test_input#0;n#!!top" expanded="false" />
-              </folding>
+            <state line="47" column="6" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="11475">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -40,10 +37,9 @@
       <file leaf-file-name="tablet_receipt.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/tablet_receipt.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="42" selection-start="420" selection-end="420" vertical-scroll-proportion="0.33464566" vertical-offset="0" max-vertical-offset="1462">
+            <state line="10" column="18" selection-start="396" selection-end="396" vertical-scroll-proportion="0.3011811" vertical-offset="17" max-vertical-offset="1462">
               <folding>
-                <element signature="e#397#421#0" expanded="true" />
-                <marker date="1430841588659" expanded="true" signature="740:792" placeholder="SELECT * FRO..personal_info..." />
+                <marker date="1430841726873" expanded="true" signature="715:767" placeholder="SELECT * FRO..personal_info..." />
               </folding>
             </state>
           </provider>
@@ -100,6 +96,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -134,7 +131,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,7 +161,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21478873" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21948357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -199,38 +195,46 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="33" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="11407">
+        <state line="47" column="6" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11475">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/tablet_receipt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="42" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1462">
           <folding>
-            <element signature="n#test_input#0;n#!!top" expanded="false" />
+            <marker date="1430841726873" expanded="true" signature="715:767" placeholder="SELECT * FRO..personal_info..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="33" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="11407">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="6" selection-start="967" selection-end="967" vertical-scroll-proportion="-0.0" vertical-offset="799" max-vertical-offset="11475">
-          <folding>
-            <element signature="n#test_input#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/sql_insert.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="4" selection-start="282" selection-end="282" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="2550">
-          <folding>
-            <marker date="1420250054139" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1420250054139" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..personal_info..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/tablet_receipt.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="42" selection-start="420" selection-end="420" vertical-scroll-proportion="0.33464566" vertical-offset="0" max-vertical-offset="1462">
+        <state line="10" column="18" selection-start="396" selection-end="396" vertical-scroll-proportion="0.3011811" vertical-offset="17" max-vertical-offset="1462">
           <folding>
-            <element signature="e#397#421#0" expanded="true" />
-            <marker date="1430841588659" expanded="true" signature="740:792" placeholder="SELECT * FRO..personal_info..." />
+            <marker date="1430841726873" expanded="true" signature="715:767" placeholder="SELECT * FRO..personal_info..." />
           </folding>
         </state>
       </provider>
