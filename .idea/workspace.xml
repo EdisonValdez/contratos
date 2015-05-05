@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da9cf704-691b-4cbd-96e5-54279445d1f2" name="Default" comment="" />
+    <list default="true" id="da9cf704-691b-4cbd-96e5-54279445d1f2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/tablet_receipt.php" afterPath="$PROJECT_DIR$/application/tablet_receipt.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="contratos.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +29,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state line="505" column="31" selection-start="17358" selection-end="17358" vertical-scroll-proportion="-15.692307" vertical-offset="8092" max-vertical-offset="11373">
-=======
-            <state line="477" column="40" selection-start="14472" selection-end="14472" vertical-scroll-proportion="0.8320158" vertical-offset="6974" max-vertical-offset="10761">
->>>>>>> origin/r2_index
+            <state line="47" column="6" selection-start="967" selection-end="967" vertical-scroll-proportion="-0.0" vertical-offset="799" max-vertical-offset="11475">
               <folding>
                 <element signature="n#test_input#0;n#!!top" expanded="false" />
               </folding>
@@ -38,12 +37,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="annex1.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/annex1.php">
+      <file leaf-file-name="tablet_receipt.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/tablet_receipt.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="22" selection-start="265" selection-end="265" vertical-scroll-proportion="0.13385826" vertical-offset="0" max-vertical-offset="1258">
+            <state line="10" column="42" selection-start="420" selection-end="420" vertical-scroll-proportion="0.33464566" vertical-offset="0" max-vertical-offset="1462">
               <folding>
-                <marker date="1430786958736" expanded="true" signature="879:931" placeholder="SELECT * FRO..personal_info..." />
+                <element signature="e#397#421#0" expanded="true" />
+                <marker date="1430841588659" expanded="true" signature="740:792" placeholder="SELECT * FRO..personal_info..." />
               </folding>
             </state>
           </provider>
@@ -62,9 +62,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/application/annex1.php" />
+        <option value="$PROJECT_DIR$/application/tablet_receipt.php" />
       </list>
     </option>
   </component>
@@ -101,7 +100,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -136,6 +134,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,7 +165,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21948357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21478873" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -200,38 +199,38 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state line="476" column="13" selection-start="14423" selection-end="14423" vertical-scroll-proportion="0.0" vertical-offset="8092" max-vertical-offset="11373">
-=======
-        <state line="477" column="40" selection-start="14472" selection-end="14472" vertical-scroll-proportion="0.8320158" vertical-offset="6974" max-vertical-offset="10761">
->>>>>>> origin/r2_index
+        <state line="48" column="33" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="11407">
           <folding>
             <element signature="n#test_input#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="36" selection-start="523" selection-end="523" vertical-scroll-proportion="0.43503937" vertical-offset="0" max-vertical-offset="26877">
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="505" column="31" selection-start="17358" selection-end="17358" vertical-scroll-proportion="-15.692307" vertical-offset="8092" max-vertical-offset="11373">
+        <state line="47" column="6" selection-start="967" selection-end="967" vertical-scroll-proportion="-0.0" vertical-offset="799" max-vertical-offset="11475">
           <folding>
             <element signature="n#test_input#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/annex1.php">
+    <entry file="file://$PROJECT_DIR$/application/sql_insert.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="22" selection-start="265" selection-end="265" vertical-scroll-proportion="0.13385826" vertical-offset="0" max-vertical-offset="1258">
+        <state line="12" column="4" selection-start="282" selection-end="282" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="2550">
           <folding>
-            <marker date="1430786958736" expanded="true" signature="879:931" placeholder="SELECT * FRO..personal_info..." />
+            <marker date="1420250054139" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1420250054139" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..personal_info..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/tablet_receipt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="42" selection-start="420" selection-end="420" vertical-scroll-proportion="0.33464566" vertical-offset="0" max-vertical-offset="1462">
+          <folding>
+            <element signature="e#397#421#0" expanded="true" />
+            <marker date="1430841588659" expanded="true" signature="740:792" placeholder="SELECT * FRO..personal_info..." />
           </folding>
         </state>
       </provider>
