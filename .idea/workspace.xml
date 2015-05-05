@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da9cf704-691b-4cbd-96e5-54279445d1f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="da9cf704-691b-4cbd-96e5-54279445d1f2" name="Default" comment="" />
     <ignored path="contratos.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,7 +35,7 @@
       <file leaf-file-name="tablet_receipt.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/tablet_receipt.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="0.06719368" vertical-offset="68" max-vertical-offset="1462">
+            <state line="12" column="21" selection-start="489" selection-end="489" vertical-scroll-proportion="0.26877472" vertical-offset="68" max-vertical-offset="1462">
               <folding>
                 <element signature="e#411#435#0" expanded="true" />
                 <marker date="1430842370769" expanded="true" signature="754:806" placeholder="SELECT * FRO..personal_info..." />
@@ -234,7 +232,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/tablet_receipt.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="0.06719368" vertical-offset="68" max-vertical-offset="1462">
+        <state line="12" column="21" selection-start="489" selection-end="489" vertical-scroll-proportion="0.26877472" vertical-offset="68" max-vertical-offset="1462">
           <folding>
             <element signature="e#411#435#0" expanded="true" />
             <marker date="1430842370769" expanded="true" signature="754:806" placeholder="SELECT * FRO..personal_info..." />
