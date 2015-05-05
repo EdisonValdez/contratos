@@ -475,6 +475,7 @@ MEMBERSHIP#: <input type="text" name="membership_number" value="<?php echo $memb
   </table>
   
   <h3> CLIENT 2 </h3>
+     <marquee>I am in r2_index</marquee>
   <table width="100%" style="border:none; margin:-5px; ">
      
   	<tr><td width="16%">THE CLIENT:&nbsp;</td><td width="36%"><input type="text" name="client2" value="<?php echo $client2; ?>" size="55px" /></td><td width="8%">&nbsp;</td><td width="16%">NATIONALITY:&nbsp;</td><td width="36%"><input type="text" name="nationality2" value="<?php echo $nationality2; ?>" size="55px" /></td>
