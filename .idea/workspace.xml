@@ -28,7 +28,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="477" column="40" selection-start="14472" selection-end="14472" vertical-scroll-proportion="0.8320158" vertical-offset="6974" max-vertical-offset="10761">
+            <state line="48" column="33" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.36956522" vertical-offset="0" max-vertical-offset="10778">
               <folding>
                 <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
                 <element signature="n#test_input#0;n#!!top" expanded="false" />
@@ -172,7 +172,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="477" column="40" selection-start="14472" selection-end="14472" vertical-scroll-proportion="0.8320158" vertical-offset="6974" max-vertical-offset="10761">
+        <state line="48" column="33" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.36956522" vertical-offset="0" max-vertical-offset="10778">
           <folding>
             <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
             <element signature="n#test_input#0;n#!!top" expanded="false" />
