@@ -28,10 +28,8 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="33" selection-start="1000" selection-end="1000" vertical-scroll-proportion="-0.0" vertical-offset="816" max-vertical-offset="11407">
-              <folding>
-                <element signature="n#test_input#0;n#!!top" expanded="false" />
-              </folding>
+            <state line="48" column="33" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="11492">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -39,9 +37,10 @@
       <file leaf-file-name="tablet_receipt.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/tablet_receipt.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="35" selection-start="278" selection-end="278" vertical-scroll-proportion="0.13385826" vertical-offset="0" max-vertical-offset="1462">
+            <state line="10" column="43" selection-start="435" selection-end="435" vertical-scroll-proportion="0.2007874" vertical-offset="68" max-vertical-offset="1462">
               <folding>
-                <marker date="1430787362981" expanded="true" signature="729:781" placeholder="SELECT * FRO..personal_info..." />
+                <element signature="e#411#435#0" expanded="true" />
+                <marker date="1430841788385" expanded="true" signature="754:806" placeholder="SELECT * FRO..personal_info..." />
               </folding>
             </state>
           </provider>
@@ -163,7 +162,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21478873" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21948357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -197,37 +196,48 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="33" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="11407">
+        <state line="48" column="33" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11492">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/tablet_receipt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="35" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1462">
           <folding>
-            <element signature="n#test_input#0;n#!!top" expanded="false" />
+            <element signature="e#411#435#0" expanded="true" />
+            <marker date="1430841788385" expanded="true" signature="754:806" placeholder="SELECT * FRO..personal_info..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="33" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="11407">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="33" selection-start="1000" selection-end="1000" vertical-scroll-proportion="-0.0" vertical-offset="816" max-vertical-offset="11407">
-          <folding>
-            <element signature="n#test_input#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/sql_insert.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="4" selection-start="282" selection-end="282" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="2550">
-          <folding>
-            <marker date="1420250054139" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1420250054139" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..personal_info..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/tablet_receipt.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="35" selection-start="278" selection-end="278" vertical-scroll-proportion="0.13385826" vertical-offset="0" max-vertical-offset="1462">
+        <state line="10" column="43" selection-start="435" selection-end="435" vertical-scroll-proportion="0.2007874" vertical-offset="68" max-vertical-offset="1462">
           <folding>
-            <marker date="1430787362981" expanded="true" signature="729:781" placeholder="SELECT * FRO..personal_info..." />
+            <element signature="e#411#435#0" expanded="true" />
+            <marker date="1430841788385" expanded="true" signature="754:806" placeholder="SELECT * FRO..personal_info..." />
           </folding>
         </state>
       </provider>

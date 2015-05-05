@@ -8,7 +8,7 @@
 <body>
 
  <p align="center"><img width="208" height="167" src="../clip_image002_0000.png" /></p>
-<h1 align="center">TABLET RECEIPT<br /></h1>
+<h1 align="center" style="font-size: 20px;">TABLET RECEIPT<br /></h1>
 <?php
 $servername = "localhost";
 $username = "root";
