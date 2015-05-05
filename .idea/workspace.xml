@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da9cf704-691b-4cbd-96e5-54279445d1f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/tablet_receipt.php" afterPath="$PROJECT_DIR$/application/tablet_receipt.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="contratos.iws" />
@@ -39,7 +37,7 @@
       <file leaf-file-name="tablet_receipt.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/tablet_receipt.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="15" selection-start="703" selection-end="703" vertical-scroll-proportion="0.57114625" vertical-offset="68" max-vertical-offset="1462">
+            <state line="6" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="0.06719368" vertical-offset="68" max-vertical-offset="1462">
               <folding>
                 <element signature="e#411#435#0" expanded="true" />
                 <marker date="1430842370769" expanded="true" signature="754:806" placeholder="SELECT * FRO..personal_info..." />
@@ -236,7 +234,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/tablet_receipt.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="15" selection-start="703" selection-end="703" vertical-scroll-proportion="0.57114625" vertical-offset="68" max-vertical-offset="1462">
+        <state line="6" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="0.06719368" vertical-offset="68" max-vertical-offset="1462">
           <folding>
             <element signature="e#411#435#0" expanded="true" />
             <marker date="1430842370769" expanded="true" signature="754:806" placeholder="SELECT * FRO..personal_info..." />
