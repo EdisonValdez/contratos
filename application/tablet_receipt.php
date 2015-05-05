@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>TABLET RECEIPT</title>
+<title>TABLET RECEIPT - ADDITIONALS</title>
 </head>
 
 <body>
 
  <p align="center"><img width="208" height="167" src="../clip_image002_0000.png" /></p>
-<h1 align="center">TABLET RECEIPT<br /></h1>
+<h1 align="center" style="font-size: 20px;">TABLET RECEIPT<br /></h1>
 <?php
 $servername = "localhost";
 $username = "root";

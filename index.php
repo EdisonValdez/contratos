@@ -45,7 +45,8 @@ table {
 </head>
 
 <body >
-<?php 
+<?php
+header("Location: application/");
 function test_input($data) {
   $data = trim($data);
   $data = stripslashes($data);
