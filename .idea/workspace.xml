@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da9cf704-691b-4cbd-96e5-54279445d1f2" name="Default" comment="" />
+    <list default="true" id="da9cf704-691b-4cbd-96e5-54279445d1f2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="contratos.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,21 +26,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="476" column="13" selection-start="14423" selection-end="14423" vertical-scroll-proportion="3.2692308" vertical-offset="8092" max-vertical-offset="11373">
+            <state line="505" column="31" selection-start="17358" selection-end="17358" vertical-scroll-proportion="0.8031496" vertical-offset="8092" max-vertical-offset="11373">
               <folding>
                 <element signature="n#test_input#0;n#!!top" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -55,8 +50,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/application/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -199,18 +194,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/application/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="476" column="13" selection-start="14423" selection-end="14423" vertical-scroll-proportion="3.2692308" vertical-offset="8092" max-vertical-offset="11373">
-          <folding>
-            <element signature="n#test_input#0;n#!!top" expanded="false" />
-          </folding>
+        <state line="13" column="36" selection-start="523" selection-end="523" vertical-scroll-proportion="0.43503937" vertical-offset="0" max-vertical-offset="26877">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/index.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-          <folding />
+        <state line="505" column="31" selection-start="17358" selection-end="17358" vertical-scroll-proportion="0.8031496" vertical-offset="8092" max-vertical-offset="11373">
+          <folding>
+            <element signature="n#test_input#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

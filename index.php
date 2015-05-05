@@ -503,7 +503,7 @@ MEMBERSHIP#: <input type="text" name="membership_number" value="<?php echo $memb
 <tr>                                                 
 <td width="35%"><?php echo $client1; ?>&nbsp;</td>
 <td width="33%">NATIONALITY:&nbsp;<?php echo $nationality1; ?></td>
-<td width="27%">PASSPORT NO:&nbsp;<?php echo $passport1; ?></td>
+<td width="27%">PASSPORT OR ID NO:&nbsp;<?php echo $passport1; ?></td>
    
 </tr>
 </table>
